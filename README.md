@@ -16,4 +16,4 @@ Things were much more simple back then.
 If it looks a bit weird, you'll have to trust me it looks _great_
 ...on a Mid-2012 15" Macbook Pro Retina in Chrome, obviously! :D
 
-I have remove contact details and things that made me cringe a bit _too_ much.
+I have removed contact details and things that made me cringe a bit _too_ much.
