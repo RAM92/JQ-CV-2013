@@ -4,7 +4,7 @@ This is a web-based CV I made in 2013.
 
 ## Running it
 
-Simply download the assets and launch `index.html`.
+Simply [download the assets](https://github.com/RAM92/JQ-CV-2013/archive/master.zip) and launch `index.html`.
 
 ## About
 It was inspired by the firefox web page that used the parallax effect. I had never seen
